@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class Part2 {
     public static void main(String[] args) {
         puzzle2();
+        System.out.println("Hello!");
     }
     static  void puzzle2 (){
         System.out.println("Введите число:");
